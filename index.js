@@ -1,5 +1,5 @@
 ReactDOM.render(
    <Contador/>,
-   document.querySelector("#root")
+   document.getElementById("#root")
 
 ); 
